@@ -3,7 +3,7 @@
 
   ### 📁Folder format
 
-  - [개인 ]
+  - [개인 스터디]
       - YYYY_MM_DD
   ### ✅ File format
 
