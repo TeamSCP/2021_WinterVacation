@@ -3,7 +3,7 @@
 
   ### 📁Folder format
 
-  - [개인프로젝트]
+  - [개인 ]
       - YYYY_MM_DD
   ### ✅ File format
 
